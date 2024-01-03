@@ -1,0 +1,1 @@
+**The list contains the solutions of Leetcode 75 study paln**
